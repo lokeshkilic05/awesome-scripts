@@ -1,0 +1,2 @@
+# awesome-scripts
+Daily practice
